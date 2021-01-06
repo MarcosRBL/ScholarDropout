@@ -8,5 +8,7 @@ deploy:
  app: predict-scholar
  on:    
    branch: master
+ api_key:
+    secure: 9a55f7e8-2b3c-4d60-9475-7a54945f076c
 script:
 - python PredAlunos.py
