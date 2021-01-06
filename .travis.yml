@@ -9,6 +9,6 @@ deploy:
  on:    
    branch: master
  api_key:
-   - "9a55f7e8-2b3c-4d60-9475-7a54945f076c"
+  secure: $HEROKU_API_KEY
 script:
 - python PredAlunos.py
