@@ -1,3 +1,4 @@
+DLLs
 api-ms-win-core-console-l1-1-0.dll
 api-ms-win-core-datetime-l1-1-0.dll
 api-ms-win-core-debug-l1-1-0.dll
@@ -40,7 +41,6 @@ api-ms-win-crt-time-l1-1-0.dll
 api-ms-win-crt-utility-l1-1-0.dll
 concrt140.dll
 conda-meta
-DLLs
 include
 info
 Lib
